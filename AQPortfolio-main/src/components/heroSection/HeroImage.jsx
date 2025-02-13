@@ -5,7 +5,7 @@ const HeroImage = () => {
     <div className="relative self-end h-full w-full items-center justify-center">
       <div className=" h-full w-full">
         <img
-          src="../../public/images/Hexa.webp"
+          src="https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441233/qvwrjlt7fjvcpjhajcw8.webp"
           alt="Utkarsh Singh"
           className="w-auto h-auto md:max-w-[570px] sm:max-w-[380px] absolute bottom-[0px] z-10 left-[50%] -translate-x-[50%]"
         />
