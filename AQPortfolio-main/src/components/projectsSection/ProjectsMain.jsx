@@ -15,7 +15,7 @@ const projects = [
     name: "vidsnap ",
     // year: "Sept2022",
     align: "left",
-    image: "../../public/images/image2.png",
+    image: "https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441236/q1l9lcqpxibrtmuhcnbu.png",
     link: "https://vidsnap-com-utkarsh.netlify.app/",
   },
   {
