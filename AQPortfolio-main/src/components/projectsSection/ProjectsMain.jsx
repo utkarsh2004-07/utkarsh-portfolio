@@ -22,7 +22,7 @@ const projects = [
     name: "Gym-HellFi",
     // year: "Jan2023",
     align: "right",
-    image: "../../public/images/image.png",
+    image: "https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441233/kc9hcjncmghs5kxq7xbx.png",
     link: "#",
   },
  
