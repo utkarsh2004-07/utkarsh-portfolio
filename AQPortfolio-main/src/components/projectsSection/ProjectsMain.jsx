@@ -8,7 +8,7 @@ const projects = [
     name: "Smart-AI-Cal",
     // year: "Mar2022",
     align: "right",
-    image: "../../public/images/image1.png",
+    image: "https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441233/r5gvsgwjrwm8klg5rbsh.png",
     link: "https://smart-calc-u.netlify.app/",
   },
   {
