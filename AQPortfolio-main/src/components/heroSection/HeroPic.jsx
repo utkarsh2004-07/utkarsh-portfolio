@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="../../public/images/Hexa.webp"
+        src="https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441233/qvwrjlt7fjvcpjhajcw8.webp"
         alt="Utkarsh Singh"
         className="max-h-[450px] w-auto"
       />
