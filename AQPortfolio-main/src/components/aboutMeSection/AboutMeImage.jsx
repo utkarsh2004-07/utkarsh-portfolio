@@ -3,7 +3,7 @@ const AboutMeImage = () => {
     <div className="h-[500px] w-[300px] relative">
       <div className="h-[500px] w-[300px] rounded-[100px] absolute overflow-hidden">
         <img
-          src="../../public/images/about-me.jpg"
+          src="https://res.cloudinary.com/dnk1sml4q/image/upload/v1739441234/vpdnxnq8xlieix0zvtiq.jpg"
           alt="About Me Image"
           className="h-full w-auto object-cover"
         />
